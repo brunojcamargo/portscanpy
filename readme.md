@@ -6,11 +6,7 @@ python -m venv portscanner
 ```
 Activate venv with the command:
 ```sh
-.\Scripts\activate
-```
-or
-```sh
-source bin/activate
+.\portscanner\Scripts\activate
 ```
 With venv enabled, install the dependencies:
 ```sh
